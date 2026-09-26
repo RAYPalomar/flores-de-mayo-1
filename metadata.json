@@ -1,0 +1,6 @@
+{
+  "name": "Flores de Mayo & Santacruzan Heritage",
+  "description": "An educational, interactive 3D website showcasing Philippine Flores de Mayo traditions, photo gallery, historical facts, Sagalas guide, and procession schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
